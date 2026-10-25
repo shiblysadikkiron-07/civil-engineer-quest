@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background: #1e3c72;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  background: rgba(0,0,0,0.6);
+  padding: 30px;
+  border-radius: 15px;
+  width: 500px;
+  margin: auto;
+}
+
+button {
+  background: #00c853;
+  border: none;
+  padding: 12px 25px;
+  margin: 8px;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
